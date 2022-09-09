@@ -1,0 +1,1 @@
+Digite as medidas, veja se é possível formar um triângulo e qual o tipo de triângulo.
